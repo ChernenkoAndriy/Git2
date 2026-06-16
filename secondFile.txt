@@ -3,6 +3,8 @@ Line 2 in second file
 Line 3 in second file
 Line 4 modified in git_1
 Line 5 modified in git_1
+Line 4 modified in git_2
+Line 5 modified in git_2
 Line 6 in second file
 Line 7 in second file
 Line 8 in second file
