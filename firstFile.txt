@@ -1,10 +1,18 @@
 Line 1 modified in step 7
 Line 2 modified in step 7
+<<<<<<< Updated upstream
 Line 3 changed in folder2
 Line 4 changed in folder2
 Line 5 in first file
 Line 6 in first file
 Line 7 in first file
+=======
+Line 3 in first file
+Line 4 in first file
+Line 5 changed in folder1
+Line 6 changed in folder1
+Line 7 changed in folder1
+>>>>>>> Stashed changes
 Line 8 in first file
 Line 9 modified in step 8
 Line 10 modified in step 8
