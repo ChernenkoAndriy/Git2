@@ -1,5 +1,5 @@
-Line 1 in first file
-Line 2 in first file
+Line 1 modified in step 7
+Line 2 modified in step 7
 Line 3 in first file
 Line 4 in first file
 Line 5 in first file
