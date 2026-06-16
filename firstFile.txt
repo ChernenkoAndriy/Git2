@@ -1,7 +1,7 @@
 Line 1 modified in step 7
 Line 2 modified in step 7
-Line 3 in first file
-Line 4 in first file
+Line 3 changed in folder2
+Line 4 changed in folder2
 Line 5 in first file
 Line 6 in first file
 Line 7 in first file
